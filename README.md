@@ -61,9 +61,9 @@ Collection of browser games built for the Yandex Games platform.
 
 ## Education
 
-- **MIREA — Russian Technological University** · Master's, Information Systems and Technologies · 2026–Present
+- **MIREA — Russian Technological University** · Master's, Information Systems and Technologies · 2026 - Present
 - **MIREA — Russian Technological University** · Bachelor's, Computer Engineering — Cyber-Physical Systems · Expected 2026
-- **MIREA — Professional Retraining** · Applied AI Software Tools, Programmer · 2024–2025
+- **MIREA — Professional Retraining** · Applied AI Software Tools, Programmer · 2024 - 2025
 
 ---
 
